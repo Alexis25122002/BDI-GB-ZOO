@@ -2,7 +2,7 @@
 # 🚀 Project: My Awesome Project
 
 Developer: Alexis Castellanos  
-Src Directory: /src/GitHub/Doc-UP-alexis/BDI-GB-ZOO📂  
+Src Directory: \/src/GitHub/Doc-UP-alexis/BDI-GB-ZOO📂\
 Created: 23-Octubre-2024 🗓️  
 Last Updated: 23-Octubre-2024 ✨  
 
